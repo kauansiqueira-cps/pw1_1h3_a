@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+main {
+    background-color: #0c0c0c;
+    color: #ccc;
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    background-color: #0c0c0c;
+}
